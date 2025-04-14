@@ -1,4 +1,4 @@
-import pandas as p
+import pandas as pd
 import streamlit as st
 import plotly.express as px
 import seaborn as sns
